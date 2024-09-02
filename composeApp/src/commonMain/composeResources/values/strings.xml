@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<resources>
+    <string name="label_title">Title</string>
+    <string name="label_artist">Artist</string>
+    <string name="label_date">Date</string>
+    <string name="label_dimensions">Dimensions</string>
+    <string name="label_medium">Medium</string>
+    <string name="label_department">Department</string>
+    <string name="label_repository">Repository</string>
+    <string name="label_credits">Credits</string>
+
+    <string name="back">Back</string>
+    <string name="ok">Ok</string>
+
+    <string name="no_data_available">No data available</string>
+
+    <string name="app_name">WeatherApp-Demo</string>
+    <string name="percent">%</string>
+    <string name="temp">º</string>
+    <string name="speed">km/h</string>
+    <string name="km">km</string>
+    <string name="menu">Menu</string>
+    <string name="search_city">Search city</string>
+    <string name="humidity">Humidity</string>
+    <string name="visibility">Visibility</string>
+    <string name="wind">Wind</string>
+    <string name="real_feel">RealFeel</string>
+    <string name="city_input_invalid">City name input invalid</string>
+    <string name="lat_lon_invalid">Lat, long invalid</string>
+    <string name="zero">0</string>
+    <string name="close">Close</string>
+    <string name="remove">Remove</string>
+    <string name="next_7_days">Next 7 days</string>
+    <string name="today">Today</string>
+</resources>
