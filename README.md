@@ -29,7 +29,7 @@ Go to the [Download Link](https://drive.google.com/file/d/1qVkXiJYj34AfvbM-7W_Zj
 
 ## Tech stack & Open-source libraries
 - 100% [Kotlin](https://kotlinlang.org/) based + [Coroutines](https://github.com/Kotlin/kotlinx.coroutines) + [Flow](https://kotlin.github.io/kotlinx.coroutines/kotlinx-coroutines-core/kotlinx.coroutines.flow/) for asynchronous.
-- Hilt for dependency injection.
+- Koin for dependency injection.
 - JetPack
   - Lifecycle - dispose observing data when lifecycle state changes.
   - ViewModel - UI related data holder, lifecycle aware.
